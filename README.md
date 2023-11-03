@@ -13,3 +13,9 @@ The idea of **BudgetGPT** is to make the process of analyzizng and recording tra
 - Flask + SlackAPI (For Backend)
 - MongoDB (For database)
 - Vercel (Deployment)
+
+## Example Transactions
+
+![image](https://github.com/MBSA-INFINITY/BudgetGPT---HackGPT/assets/85332648/4423a2e0-3ee6-4a0b-90bf-6e5ca7771944)
+![image](https://github.com/MBSA-INFINITY/BudgetGPT---HackGPT/assets/85332648/7aa34946-3390-4a99-82ac-1b56ff9ec5a3)
+
